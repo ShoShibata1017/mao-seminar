@@ -3,9 +3,10 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
-＃
-真羽教授
-
+# メンバー
+真央教授
+エルマス
+わかば
 
 # ディレクトリ構成
 ```
