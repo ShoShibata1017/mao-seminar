@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+
+#テスト用。管理しないファイル
+test.txt
